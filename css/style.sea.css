@@ -340,12 +340,14 @@ SIDEBAR + RIGHT COLUMN
     padding-right: 20px;
   }
 }
-.sidebar-heading {
-  font-size: 18px;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
 
+.sidebar-heading {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: auto 15px 15px;
 }
+
 .sidebar-heading a {
   color: #fff;
   text-decoration: none;
