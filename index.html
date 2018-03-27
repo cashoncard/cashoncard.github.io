@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-<script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/1.0.0/upup.min.js"></script>
-<script>
-UpUp.start({
-  'cache-version': 'v2',
-  'content-url': '/index.html'
-  ,'assets': ["/img/retrologo.png","/img/about.jpg","/css/style.sea.css"] 
-});
-</script>
 <html lang="en-us">
 <head>
 	<meta name="generator" content="Hugo 0.34" /><meta charset="utf-8">
@@ -54,7 +46,7 @@ UpUp.start({
 <img src="https://cashoncard.github.io/img/retrologo.png" width="220px" alt="Retro Film" class="img-responsive"/>
     </a></h1>
     
-      <p class="sidebar-p">RetroFilm är till för dej som vill se historiska svenska filmer.</p>
+      <p class="sidebar-p">Test av cache busting! RetroFilm är till för dej som vill se historiska svenska filmer.</p>
     
       <p class="sidebar-p">Tillhör du målgruppen som beundrar skådespelare från 1930/40-talet, då är Hollywod Classics och komiska stumfilmer rätt.</p>
     
@@ -231,5 +223,13 @@ UpUp.start({
 <script src="https://cashoncard.github.io/js/owl.carousel.min.js"></script>
 <script src="https://cashoncard.github.io/js/front.js"></script>
 
+  <script src="https://cashoncard.github.io/upup.min.js"></script>
+  <script>
+  UpUp.start({
+    'cache-version': 'v3',
+    'content-url': '/'
+    ,'assets': ["/img/retrologo.png","/img/about.jpg","/css/style.sea.css"] 
+  });
+  </script>
 </body>
 </html>
