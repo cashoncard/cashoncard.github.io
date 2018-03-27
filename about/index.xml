@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Om RetroFilm on Retro Film</title>
-    <link>https://cashoncard.github.io/about/</link>
+    <link>https://retrofilm.nu/about/</link>
     <description>Recent content in Om RetroFilm on Retro Film</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-SE</language>
     <copyright>&amp;copy;2018 RetroFilm</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
     
-	<atom:link href="https://cashoncard.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retrofilm.nu/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

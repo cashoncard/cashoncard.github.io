@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Retro Film</title>
-    <link>https://cashoncard.github.io/portfolio/</link>
+    <link>https://retrofilm.nu/portfolio/</link>
     <description>Recent content in Portfolios on Retro Film</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-SE</language>
     <copyright>&amp;copy;2018 RetroFilm</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://cashoncard.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retrofilm.nu/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rolling Stones @ Friends Arena</title>
-      <link>https://cashoncard.github.io/portfolio/work1/</link>
+      <link>https://retrofilm.nu/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://cashoncard.github.io/portfolio/work1/</guid>
+      <guid>https://retrofilm.nu/portfolio/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 &lt;/p&gt;</description>
     </item>
