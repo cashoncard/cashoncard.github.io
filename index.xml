@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Retro Film</title>
+    <title>RetroFilm on Retro Film</title>
     <link>https://cashoncard.github.io/</link>
-    <description>Recent content on Retro Film</description>
+    <description>Recent content in RetroFilm on Retro Film</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 12:39:52 +0000</lastBuildDate>
     
 	<atom:link href="https://cashoncard.github.io/index.xml" rel="self" type="application/rss+xml" />
     

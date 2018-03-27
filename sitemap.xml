@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>https://cashoncard.github.io/</loc>
+    <lastmod>2018-03-27T12:39:52+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cashoncard.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -90,12 +95,6 @@
   
   <url>
     <loc>https://cashoncard.github.io/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cashoncard.github.io/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
